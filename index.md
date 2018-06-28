@@ -14,6 +14,7 @@ This page contains GIS and coding samples created in recent years - ranging from
 ## Apps & Projects <a name="apps"></a>
 ### SEEP Web App - Solar Energy Estimations & Projections
 [![alt text](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG "SEEP Web App")](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG)
+
 The goal of this project was to create a process driven solar energy estimation web app for the City of Airdrie. This was a pilot project to show how a process-driven tool for solar energy estimation could be scaled up to other locales. 
 
 The web app was created from LiDAR and census data for the City of Airdrie, all of the data open source catalog and is available to download by the general public. ESRI’s ArcGIS Solar radiation tools were used to produce estimated solar insolation on the rooftops of buildings in the city for a full calendar year (simulated). Further calculations were done based on NREL's (National Renewable Energy Laboratory) research for the cost of solar energy generation - these results were added as tabular data for each building in the city. The results of this project are a working web app for the City of Airdrie that will give users key solar information for a given address.
@@ -26,15 +27,19 @@ The web app was created from LiDAR and census data for the City of Airdrie, all 
 ### Natural Regions of Alberta
 [![alt text](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG   "Natural Regions of Alberta")](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG )
 
-### Belgium Reference Map
-[![alt text](https://bouchardgis.github.io/images/BelgiumReferenceMap.PNG  "Belgium Reference Map")](https://bouchardgis.github.io/images/BelgiumReferenceMap.PNG)
-
 ### Crane Glacier Surfaces
 [![alt text](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG  "Crane Glacier - Surfaces")](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG)
 
+The Crane Glacier, in Antarctica, has been undergoing dramatic changes in recent decades due to a changing climate. These changes can be studied in greater detail with the help of surface visualizations. This map includes a compilation of surfaces generated using ArcGIS: a digital elevation model (DEM), slope, aspect, hillshade, viewshed sample, and solar insolation.
 
-### Waiparous Image Classications
+For more details, please read the [Crane Glacier Surfaces Generation Report (PDF)](https://bouchardgis.github.io/reports/CraneGlacierStudy_SurfaceGenerationReport.pdf).
 
+### Waiparous Image Classication
+[![alt text](https://bouchardgis.github.io/images/Waiparous_ImageClassification_forWesternSkyLandTrust.PNG  "Waiparous Image Classification")](https://bouchardgis.github.io/images/Waiparous_ImageClassification_forWesternSkyLandTrust.PNG) 
+
+The Western Sky Land Trust (WSLT) is striving to conserve open and natural areas within the Calgary region, focusing on watershed lands associated to agricultural, natural, heritage, scenic, and recreational values (WSLT, 2015). They have approached our team to help them to produce a sampling strategy for a species inventory program on a land parcel near Waiparous, AB – including vegetation, wildlife, and aquatic species.
+
+For more details, please read the [Waiparous, AB - Image Classification (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf).
 
 ---
 
@@ -43,6 +48,11 @@ The web app was created from LiDAR and census data for the City of Airdrie, all 
 The report that goes along with the Crane Glacier Surfaces Map describes in detail how the surfaces were generated in ArcGIS. 
 
 [Crane Glacier Surfaces Generation Report (PDF)](https://bouchardgis.github.io/reports/CraneGlacierStudy_SurfaceGenerationReport.pdf)
+
+### Waiparous, Alberta - Image Classification
+This report details the process used to gather data of the Waiparous region of Alberta for image classification.
+
+[Waiparous, AB - Image Classification (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf)
 
 ---
 
