@@ -27,6 +27,8 @@ The web app was created from LiDAR and census data for the City of Airdrie, all 
 ### Natural Regions of Alberta
 [![alt text](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG   "Natural Regions of Alberta")](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG)
 
+The natural regions and subregions of Alberta, Canada vary widely - from dry and hot badlands to vast unbroken forests. This map was made to help visualize the different regions of the province. Created in ArcGIS with the use of shapefiles (for the regions and subregions) and digital elevation models. 
+
 ### Crane Glacier Surfaces
 [![alt text](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG  "Crane Glacier - Surfaces")](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG)
 
