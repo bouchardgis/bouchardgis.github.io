@@ -231,11 +231,27 @@ $uri = New-Object System.Uri($ftp+$outputFileName)
 $webclient.UploadFile($uri,$uploadfilepath)
 ```
 
+Configuration File:
+"CustomCfg.cfg"
+```
+inputFileName = inputFileName.csv
+outputFileName = outputFileName.csv
+CompanyName = Sample Company Inc
+FieldName = Sample Field
+Battery = Sample Battery Location
+Well = Sample Well Location
+UWI = sample UWI
+ftp = ftp://sampleftp.com/
+user = "username"
+pass = "samplePassword"
+```
+
+
 ### Python ArcGIS Samples
 
 
 ---
 
 ## Resume
-[Bouchard's Resume](https://linkedin.com/in/davidjbouchard)
+[Click here to see full Resume](https://linkedin.com/in/davidjbouchard)
 
