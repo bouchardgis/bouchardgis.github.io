@@ -9,6 +9,8 @@ This page contains GIS and coding samples created in recent years - ranging from
 For more details about my previous experience, please 
 <a href="https://linkedin.com/in/davidjbouchard" target="_blank">click here to see full Resume (LinkedIn)</a>
 
+---
+
 ## Contents
 * [Apps & Projects](#apps)
 * [Maps](#maps)
