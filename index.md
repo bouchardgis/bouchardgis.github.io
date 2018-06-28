@@ -36,7 +36,7 @@ This page contains GIS and coding samples created in recent years - ranging from
 ### Crane Glacier - Surfaces Generation
 The report that goes along with the Crane Glacier Surfaces Map describes in detail how the surfaces were generated in ArcGIS. 
 
-[Crane Glacier Surfaces Generation Report](https://bouchardgis.github.io/reports/Crane Glacier Study - Surface Generation Report.pdf)
+[Crane Glacier Surfaces Generation Report](https://bouchardgis.github.io/reports/CraneGlacierStudy_SurfaceGenerationReport.pdf)
 
 ---
 
