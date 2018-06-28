@@ -25,7 +25,7 @@ The web app was created from LiDAR and census data for the City of Airdrie, all 
 
 ## Maps <a name="maps"></a>
 ### Natural Regions of Alberta
-[![alt text](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG   "Natural Regions of Alberta")](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG =300px)
+[![alt text](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG   "Natural Regions of Alberta")](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG)
 
 ### Crane Glacier Surfaces
 [![alt text](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG  "Crane Glacier - Surfaces")](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG)
