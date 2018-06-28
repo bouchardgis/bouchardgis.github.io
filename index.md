@@ -39,7 +39,7 @@ For more details, please read the [Crane Glacier Surfaces Generation Report (PDF
 
 The Western Sky Land Trust (WSLT) is striving to conserve open and natural areas within the Calgary region, focusing on watershed lands associated to agricultural, natural, heritage, scenic, and recreational values (WSLT, 2015). They have approached our team to help them to produce a sampling strategy for a species inventory program on a land parcel near Waiparous, AB – including vegetation, wildlife, and aquatic species.
 
-For more details, please read the [Waiparous, AB - Image Classification (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf).
+For more details, please read the [Waiparous, AB - Image Classification Report (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf).
 
 ---
 
@@ -52,7 +52,7 @@ The report that goes along with the Crane Glacier Surfaces Map describes in deta
 ### Waiparous, Alberta - Image Classification
 This report details the process used to gather data of the Waiparous region of Alberta for image classification.
 
-[Waiparous, AB - Image Classification (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf)
+[Waiparous, AB - Image Classification Report (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf)
 
 ---
 
