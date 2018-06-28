@@ -24,6 +24,8 @@ This page contains GIS and coding samples created in recent years - ranging from
 ### Belgium Reference Map
 
 ### Crane Glacier Surfaces
+![alt text](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG  "Crane Glacier - Surfaces")
+
 
 ### Waiparous Image Classications
 
