@@ -20,8 +20,10 @@ This page contains GIS and coding samples created in recent years - ranging from
 
 ## Maps <a name="maps"></a>
 ### Natural Regions of Alberta
+[![alt text](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG   "Natural Regions of Alberta")](https://bouchardgis.github.io/images/Alberta_NaturalRegionsMap.PNG )
 
 ### Belgium Reference Map
+[![alt text](https://bouchardgis.github.io/images/BelgiumReferenceMap.PNG  "Belgium Reference Map")](https://bouchardgis.github.io/images/BelgiumReferenceMap.PNG)
 
 ### Crane Glacier Surfaces
 [![alt text](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG  "Crane Glacier - Surfaces")](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG)
