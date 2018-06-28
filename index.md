@@ -4,12 +4,7 @@ This page contains GIS and coding samples created in recent years - ranging from
 
 ## Contents
 * [Apps & Projects](#apps)
-..* SEEP - Solar Energy Estimation and Projections
 * [Maps](#maps)
-..* Natural Regions of Alberta
-..* Belgium Reference Map
-..* Crane Glacier Surfaces
-..* Waiparous Image Classification
 * [Reports](#reports)
 * [Scripts](#scripts)
 * [Resume](#resume)
