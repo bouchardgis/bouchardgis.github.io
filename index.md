@@ -13,7 +13,7 @@ This page contains GIS and coding samples created in recent years - ranging from
 
 ## Apps & Projects <a name="apps"></a>
 ### SEEP - Solar Energy Estimations & Projections
-![alt text](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG "SEEP Web App")
+[![alt text](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG "SEEP Web App")](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG)
 
 
 ---
@@ -24,7 +24,7 @@ This page contains GIS and coding samples created in recent years - ranging from
 ### Belgium Reference Map
 
 ### Crane Glacier Surfaces
-![alt text](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG  "Crane Glacier - Surfaces")
+[![alt text](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG  "Crane Glacier - Surfaces")](https://bouchardgis.github.io/images/CraneGlacier_SurfaceGeneration.PNG)
 
 
 ### Waiparous Image Classications
