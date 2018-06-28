@@ -14,7 +14,9 @@ This page contains GIS and coding samples created in recent years - ranging from
 ## Apps & Projects <a name="apps"></a>
 ### SEEP - Solar Energy Estimations & Projections
 [![alt text](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG "SEEP Web App")](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG)
+The goal of this project was to create a process driven solar energy estimation web app for the City of Airdrie. This was a pilot project to show how a process-driven tool for solar energy estimation could be scaled up to other locales. 
 
+The web app was created from LiDAR and census data for the City of Airdrie, all of the data open source catalog and is available to download by the general public. ESRI’s ArcGIS Solar radiation tools were used to produce estimated solar insolation on the rooftops of buildings in the city for a full calendar year (simulated). Further calculations were done based on NREL's (National Renewable Energy Laboratory) research for the cost of solar energy generation - these results were added as tabular data for each building in the city. The results of this project are a working web app for the City of Airdrie that will give users key solar information for a given address.
 
 ---
 
