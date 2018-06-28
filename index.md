@@ -2,15 +2,27 @@
 
 This page contains GIS and coding samples created in recent years - ranging from scripts to maps produced, as well as screencaptures of prior apps. 
 
+## Contents
+* [Apps & Projects](#apps)
+..* SEEP - Solar Energy Estimation and Projections
+* [Maps](#maps)
+..* Natural Regions of Alberta
+..* Belgium Reference Map
+..* Crane Glacier Surfaces
+..* Waiparous Image Classification
+* [Reports](#reports)
+* [Scripts](#scripts)
+* [Resume](#resume)
+
 ---
 
-## Apps & Projects
+## Apps & Projects <a name="apps"></a>
 
 
 
 ---
 
-## Maps
+## Maps <a name="maps"></a>
 ### Natural Regions of Alberta
 
 ### Belgium Reference Map
@@ -22,12 +34,12 @@ This page contains GIS and coding samples created in recent years - ranging from
 
 ---
 
-## Reports
+## Reports <a name="reports"></a>
 
 
 ---
 
-## Scripts
+## Scripts <a name="scripts"></a>
 ### PowerShell Data Handling Samples
 #### Data Rollup
 ```powershell
@@ -252,6 +264,6 @@ pass = "samplePassword"
 
 ---
 
-## Resume
+## Resume <a name="resume"></a>
 [Click here to see full Resume](https://linkedin.com/in/davidjbouchard)
 
