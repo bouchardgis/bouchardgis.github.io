@@ -46,11 +46,15 @@ For more details, please read the [Waiparous, AB - Image Classification Report (
 
 ## Reports <a name="reports"></a>
 ### Crane Glacier - Surfaces Generation
+[![alt text](https://bouchardgis.github.io/images/Report_SurfaceGeneration_CraneGlacier.PNG "Crane Glacier Surfaces Generation Report (PDF)")](https://bouchardgis.github.io/reports/CraneGlacierStudy_SurfaceGenerationReport.pdf)
+
 The report that goes along with the Crane Glacier Surfaces Map describes in detail how the surfaces were generated in ArcGIS. 
 
 [Crane Glacier Surfaces Generation Report (PDF)](https://bouchardgis.github.io/reports/CraneGlacierStudy_SurfaceGenerationReport.pdf)
 
 ### Waiparous, Alberta - Image Classification
+[![alt text](https://bouchardgis.github.io/images/Report_ImageClassification_WaiparousAB.PNG "Waiparous Image Classification Report (PDF)")](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf) 
+
 This report details the process used to gather data of the Waiparous region of Alberta for image classification.
 
 [Waiparous, AB - Image Classification Report (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf)
