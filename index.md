@@ -12,7 +12,7 @@ This page contains GIS and coding samples created in recent years - ranging from
 ---
 
 ## Apps & Projects <a name="apps"></a>
-### SEEP - Solar Energy Estimations & Projections
+### SEEP Web App - Solar Energy Estimations & Projections
 [![alt text](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG "SEEP Web App")](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_Screencap.PNG)
 The goal of this project was to create a process driven solar energy estimation web app for the City of Airdrie. This was a pilot project to show how a process-driven tool for solar energy estimation could be scaled up to other locales. 
 
