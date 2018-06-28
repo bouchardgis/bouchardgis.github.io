@@ -1,13 +1,18 @@
-# Bouchard's GIS Portfolio
+# David Bouchard's GIS Portfolio
+
+## Summary
+
+Experienced GIS Technologist with over 10 years of IT experience. Skills include computer networking, analytical thinking and creative problem solving. Able to apply customer service concepts to IT to improve user experience for clients, employees and administration.
 
 This page contains GIS and coding samples created in recent years - ranging from scripts to maps produced, as well as screencaptures of prior apps. 
+
+For more details about my previous experience, please [click here to see full Resume (LinkedIn)](https://linkedin.com/in/davidjbouchard)
 
 ## Contents
 * [Apps & Projects](#apps)
 * [Maps](#maps)
 * [Reports](#reports)
 * [Scripts](#scripts)
-* [Resume](#resume)
 
 ---
 
@@ -284,8 +289,4 @@ pass = "samplePassword"
 ### Python ArcGIS Samples
 
 
----
-
-## Resume <a name="resume"></a>
-[Click here to see full Resume](https://linkedin.com/in/davidjbouchard)
 
