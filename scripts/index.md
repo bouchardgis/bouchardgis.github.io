@@ -11,3 +11,13 @@ This script is for Part B: Adds the provided datasets, and outputs from Part A t
 [ZionNationalPark_PythonGeneratedMap_PartB.py](https://github.com/bouchardgis/bouchardgis.github.io/blob/master/scripts/ZionNationalPark_PythonGeneratedMap_PartB.py)
 
 ### SEEP - Solar Energy Estimations and Projections Scripts
+#### DSM Generator
+This script creates digital surface models (DSM) for the use in solar radiation simulations. 
+
+[SEEP_DSMGenerator.py](https://github.com/bouchardgis/bouchardgis.github.io/blob/master/scripts/SEEP_DSMGenerator.py)
+
+#### Solar Energy Simulations & Energy Cost Estimations
+This scrip creates solar radiation maps for the buildings specified in the building footprint and SQL search query parameters. Outputs a feature estimating the ideal solar installation for the building or home, and a solar map raster for its projected insolation in watt-hour per meter squared. 
+
+[SEEP_SolarEnergySimulationsAndEnergyCostEstimations.py](https://github.com/bouchardgis/bouchardgis.github.io/blob/master/scripts/SEEP_SolarEnergySimulationsAndEnergyCostEstimations.py)
+
