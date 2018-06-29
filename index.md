@@ -68,7 +68,7 @@ This report details the process used to gather data of the Waiparous region of A
 ---
 
 ## Scripts <a name="scripts"></a>
-### Python ArcGIS Samples
+### Python ArcGIS Samples (ArcPy)
 [![alt text](https://bouchardgis.github.io/images/ZionNationalPark_PythonGeneratedMap.PNG "Zion National Park - Python Generated Map")](https://bouchardgis.github.io/images/ZionNationalPark_PythonGeneratedMap.PNG)
 
 The map above was created using two Python scripts leveraging ArcGIS's AcrPy library. To view the scripts, go to [bouchardgis.github.io/scripts](https://bouchardgis.github.io/scripts)
