@@ -73,4 +73,7 @@ This report details the process used to gather data of the Waiparous region of A
 
 The map above was created using two Python scripts leveraging ArcGIS's AcrPy library. To view the scripts, go to [bouchardgis.github.io/scripts](https://bouchardgis.github.io/scripts)
 
-
+### SEEP - Solar Energy Estimations & Projections - ArcPy Scripts
+[![alt text](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_SmallCapture.JPG "SEEP - Solar Energy Estimations & Projections")](https://bouchardgis.github.io/images/SEEP_SolarEnergyEstimationsAndProjections_SmallCapture.JPG)
+ 
+The SEEP Web App needed a lot of pre-processing to be a smooth and optimized experience for users on the web. As a result, a few scripts were required to automate the process. To view the scripts, go to [bouchardgis.github.io/scripts](https://bouchardgis.github.io/scripts)
