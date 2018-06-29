@@ -5,7 +5,7 @@ Experienced GIS Technologist with over 10 years of IT experience. Skills include
 This page contains GIS and coding samples created in recent years - ranging from scripts to maps produced, as well as screencaptures of prior apps. 
 
 For more details about my previous experience, please 
-<a href="https://linkedin.com/in/davidjbouchard" target="_blank">click here to see full Resume (LinkedIn)</a>
+<a href="https://linkedin.com/in/davidjbouchard" target="_blank">click here to see full Resume (LinkedIn)</a>, or <a href="https://bouchardgis.github.io/reports/DBouchard_Resume_June2018.pdf" target="_blank">click here for a one-page Resume (PDF)</a>.
 
 ---
 
