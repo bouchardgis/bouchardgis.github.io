@@ -61,41 +61,41 @@ The creation of the SEEP Web App took around 4 months - the following reports go
 #### SEEP Capstone Proposal
 This document covers the details of the project proposal, as follows: the rationale, deliverables & scope, required software, data sources, data management structure, data security, database model, metadata maintenance, data handling & GIS processes, final scale & industry standards, and the team members.
 
-Link: [SEEP - Capstone Proposal (PDF)](https://bouchardgis.github.io/reports/SEEP_1_CapstoneProposal_DiscoverYourPotential.pdf)
+Download: [SEEP - Capstone Proposal (PDF)](https://bouchardgis.github.io/reports/SEEP_1_CapstoneProposal_DiscoverYourPotential.pdf)
 
 #### SEEP Project Plan
 This document covers the steps involved in planning this project; the technical approach. Included in the document: project scope, assumptions & constraints, task descriptions, roles & responsibilities, schedule, risk management plan, performance measurement & quality management, and deliverables. 
 
-Link: [SEEP - Project Plan (PDF)](https://bouchardgis.github.io/reports/SEEP_2_DiscoverYourPotential_ProjectPlan.pdf)
+Download: [SEEP - Project Plan (PDF)](https://bouchardgis.github.io/reports/SEEP_2_DiscoverYourPotential_ProjectPlan.pdf)
 
 #### SEEP Data Needs Assessment
 This document was produced around a third of the way through the project - ensuring all data required was gathered by that point, and helped to determine what data might have been missing using a gap analysis. 
 
-Link: [SEEP - Data Needs Assessment (PDF)](https://bouchardgis.github.io/reports/SEEP_3_DataNeedsAssessment.pdf)
+Download: [SEEP - Data Needs Assessment (PDF)](https://bouchardgis.github.io/reports/SEEP_3_DataNeedsAssessment.pdf)
 
 #### SEEP Project Update
 This document covers the updated specifications of the project: from team members to methodology. 
 
-Link: [SEEP - Project Update (PDF)](https://bouchardgis.github.io/reports/SEEP_4_SolarEnergyEstimationsAndProjections_ProjectUpdate.pdf)
+Download: [SEEP - Project Update (PDF)](https://bouchardgis.github.io/reports/SEEP_4_SolarEnergyEstimationsAndProjections_ProjectUpdate.pdf)
 
 #### SEEP Final Poster
 This poster was created to showcase the project before its final presentation - printed using a plotter and ArcMap. The PDF version was recreated using archived data and geodatabases, and produced using ArcGIS Pro. 
 
-Link: [SEEP - Final Poster (PDF)](https://bouchardgis.github.io/reports/SEEP_5_SolarEnergyEstimationsAndProjections_FinalPoster.pdf)
+Download: [SEEP - Final Poster (PDF)](https://bouchardgis.github.io/reports/SEEP_5_SolarEnergyEstimationsAndProjections_FinalPoster.pdf)
 
 ### Crane Glacier - Surfaces Generation
 [![alt text](https://bouchardgis.github.io/images/Report_SurfaceGeneration_CraneGlacier.PNG "Crane Glacier Surfaces Generation Report (PDF)")](https://bouchardgis.github.io/reports/CraneGlacierStudy_SurfaceGenerationReport.pdf)
 
 The report that goes along with the Crane Glacier Surfaces Map describes in detail how the surfaces were generated in ArcGIS. 
 
-Link: [Crane Glacier Surfaces Generation Report (PDF)](https://bouchardgis.github.io/reports/CraneGlacierStudy_SurfaceGenerationReport.pdf)
+Download: [Crane Glacier Surfaces Generation Report (PDF)](https://bouchardgis.github.io/reports/CraneGlacierStudy_SurfaceGenerationReport.pdf)
 
 ### Waiparous, Alberta - Image Classification
 [![alt text](https://bouchardgis.github.io/images/Report_ImageClassification_WaiparousAB.PNG "Waiparous Image Classification Report (PDF)")](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf) 
 
 This report details the process used to gather data of the Waiparous region of Alberta for image classification.
 
-Link: [Waiparous, AB - Image Classification Report (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf)
+Download: [Waiparous, AB - Image Classification Report (PDF)](https://bouchardgis.github.io/reports/WaiparousAB_ImageClassification_forWLST.pdf)
 
 ---
 
