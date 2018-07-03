@@ -1,6 +1,6 @@
 ## Summary
 
-Experienced GIS Technologist with over 10 years of IT experience. Skills include computer networking, analytical thinking and creative problem solving. Able to apply customer service concepts to IT to improve user experience for clients, employees and administration. I strive to make a positive difference for those in need, by solving complex problems with novel, efficient solutions. 
+Experienced Technologist with over 10 years of experience in engineering technology and IT. Known for excellent analytical thinking and creative problem solving. Able to apply customer service concepts to IT to improve user experience for clients, employees and administration. I strive to make a positive difference with technology, by solving complex problems with novel, efficient solutions. 
 
 This page contains GIS and coding samples created in recent years - ranging from scripts to maps produced, as well as screencaptures of prior apps. 
 
