@@ -27,6 +27,8 @@ The web app was created from LiDAR and census data for the City of Airdrie, all 
 
 <a href="http://sait.maps.arcgis.com/apps/webappviewer/index.html?id=2fb5fd4773eb4cefb37facf0c7ac1ae7" target="_blank">SEEP - Solar Energy Estimations & Projections (Web App)</a>
 
+For more information about the SEEP Web App project, please go to the [Reports section](#reports) of this page. 
+
 ---
 
 ## Maps <a name="maps"></a>
