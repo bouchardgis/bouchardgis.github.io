@@ -56,20 +56,20 @@ For more details, please read the [Waiparous, AB - Image Classification Report (
 ### SEEP - Development Reports
 [![alt text](https://bouchardgis.github.io/images/SEEP_Reports_Covers.PNG "SEEP - Solar Energy Estimations and Projects - Reports")](https://bouchardgis.github.io/images/SEEP_Reports_Covers.PNG)
 
-The creation of the SEEP Web App took around 4 months - the following reports go through the planning and documentation of the project prior to release, and should be detailed enough to recreate the project, as needed. Reports include: Proposal, Project Plan, Data Needs Assessment, Project Update and Final Poster.
+The creation of the SEEP Web App (initially known as "Discover Your Potential) took around 4 months - the following reports go through the planning and documentation of the project prior to release, and should be detailed enough to recreate the project, as needed. Reports include: Proposal, Project Plan, Data Needs Assessment, Project Update and Final Poster.
 
 #### SEEP Capstone Proposal
-This document covers the details of the project proposal, as follows: the rationale, deliverables & scope, required software, data sources, data management structure, data security, database model, metadata maintenance, data handling & GIS processes, final scale & industry standards, and the team members.
+This document covers the details of the project proposal ("Discover Your Potential"), as follows: the rationale, deliverables & scope, required software, data sources, data management structure, data security, database model, metadata maintenance, data handling & GIS processes, final scale & industry standards, and the team members.
 
 Download: [SEEP - Capstone Proposal (PDF)](https://bouchardgis.github.io/reports/SEEP_1_CapstoneProposal_DiscoverYourPotential.pdf)
 
 #### SEEP Project Plan
-This document covers the steps involved in planning this project; the technical approach. Included in the document: project scope, assumptions & constraints, task descriptions, roles & responsibilities, schedule, risk management plan, performance measurement & quality management, and deliverables. 
+This document covers the steps involved in planning this project ("Discover Your Potential"); the technical approach. Included in the document: project scope, assumptions & constraints, task descriptions, roles & responsibilities, schedule, risk management plan, performance measurement & quality management, and deliverables. 
 
 Download: [SEEP - Project Plan (PDF)](https://bouchardgis.github.io/reports/SEEP_2_DiscoverYourPotential_ProjectPlan.pdf)
 
 #### SEEP Data Needs Assessment
-This document was produced around a third of the way through the project - ensuring all data required was gathered by that point, and helped to determine what data might have been missing using a gap analysis. 
+This document was produced around a third of the way through the project - ensuring all data required was gathered by that point, and helped to determine what data might have been missing using a gap analysis. The project was renamed to "Solar Energy Estimations and Projections", or SEEP for short.
 
 Download: [SEEP - Data Needs Assessment (PDF)](https://bouchardgis.github.io/reports/SEEP_3_DataNeedsAssessment.pdf)
 
