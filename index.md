@@ -1,6 +1,6 @@
 ## Summary
 
-Experienced Technologist with over 10 years of experience in engineering technology and IT. Known for excellent analytical thinking and creative problem solving. Able to apply customer service concepts to IT to improve user experience for clients, employees and administration. I strive to make a positive difference with technology, by solving complex problems with novel, efficient solutions. 
+David is an experienced technologist with over 5 years of experience in engineering technology and IT. Known for excellent analytical thinking and creative problem solving. Able to apply customer service concepts to IT to improve user experience for clients, employees and administration. I strive to make a positive difference with technology, by solving complex problems with novel, efficient solutions. I am business driven, customer centric, and a quick-starter.  
 
 This page contains GIS and coding samples created in recent years - ranging from scripts to maps produced, as well as screencaptures of prior apps. 
 
@@ -25,7 +25,7 @@ The goal of this project was to create a process driven solar energy estimation 
 
 The web app was created from LiDAR and census data for the City of Airdrie, all of the data open source catalog and is available to download by the general public. ESRI’s ArcGIS Solar radiation tools were used to produce estimated solar insolation on the rooftops of buildings in the city for a full calendar year (simulated). Further calculations were done based on NREL's (National Renewable Energy Laboratory) research for the cost of solar energy generation - these results were added as tabular data for each building in the city. The results of this project are a working web app for the City of Airdrie that will give users key solar information for a given address.
 
-<a href="http://sait.maps.arcgis.com/apps/webappviewer/index.html?id=2fb5fd4773eb4cefb37facf0c7ac1ae7" target="_blank">SEEP - Solar Energy Estimations & Projections (Web App)</a>
+<a href="" target="_blank">SEEP - Solar Energy Estimations & Projections (Web App) - Discontinued</a>
 
 For more information about the SEEP Web App project, please go to the [Reports section](#reports) of this page. 
 
