@@ -25,7 +25,7 @@ The goal of this project was to create a process driven solar energy estimation 
 
 The web app was created from LiDAR and census data for the City of Airdrie, all of the data open source catalog and is available to download by the general public. ESRI’s ArcGIS Solar radiation tools were used to produce estimated solar insolation on the rooftops of buildings in the city for a full calendar year (simulated). Further calculations were done based on NREL's (National Renewable Energy Laboratory) research for the cost of solar energy generation - these results were added as tabular data for each building in the city. The results of this project are a working web app for the City of Airdrie that will give users key solar information for a given address.
 
-<a href="" target="_blank">SEEP - Solar Energy Estimations & Projections (Web App) - Discontinued</a>
+<a>SEEP - Solar Energy Estimations & Projections (Web App) - Discontinued</a>
 
 For more information about the SEEP Web App project, please go to the [Reports section](#reports) of this page. 
 
