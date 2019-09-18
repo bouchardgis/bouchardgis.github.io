@@ -1,11 +1,11 @@
-## Summary
+## Career Profile
 
-David is an experienced technologist with over 5 years of experience in engineering technology and IT. Known for excellent analytical thinking and creative problem solving. Able to apply customer service concepts to IT to improve user experience for clients, employees and administration. I strive to make a positive difference with technology, by solving complex problems with novel, efficient solutions. I am business driven, customer centric, and a quick-starter.  
+Technologist with 6 years of experience implementing technologies for the energy, manufacturing and environmental sectors, with 2 years of GIS-specific experience. Developed and managed automation solutions for data analysis - and their associated systems - for small teams (5-10 people) and larger enterprises.   
 
 This page contains GIS and coding samples created in recent years - ranging from scripts to maps produced, as well as screencaptures of prior apps. 
 
 For more details about my previous experience, please 
-<a href="https://linkedin.com/in/davidjbouchard" target="_blank">click here to see full Resume (LinkedIn)</a>, or <a href="https://bouchardgis.github.io/reports/DBouchard_Resume_June2018.pdf" target="_blank">click here for a one-page Resume (PDF)</a>.
+<a href="https://linkedin.com/in/davidjbouchard" target="_blank">click here to see full Resume (LinkedIn)</a>, or <a href="https://bouchardgis.github.io/reports/dbouchard_resume_201909.pdf" target="_blank">click here for a one-page Resume (PDF)</a>.
 
 ---
 
